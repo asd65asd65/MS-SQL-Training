@@ -1,3 +1,3 @@
 # MS-SQL-Training
 
-<p>以"Northwind"的資料庫</p>
+<p>使用"Northwind"的資料庫，練習SQL查詢指令</p>
